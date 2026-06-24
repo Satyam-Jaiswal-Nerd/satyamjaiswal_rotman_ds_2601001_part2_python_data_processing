@@ -1,0 +1,61 @@
+order_id,customer_id,customer_name,city,product_id,quantity,unit_price,order_status,payment_method,order_date
+ORD001,CUST001,John Smith,Delhi,P001,1,89999,Completed,Credit Card,2024-01-15
+ORD002,CUST002,Sarah Johnson,Mumbai,P002,2,2499,Completed,Debit Card,2024-01-16
+ORD003,CUST003,Michael Brown,Bangalore,P003,5,599,Completed,UPI,2024-01-17
+ORD004,CUST004, Alice Williams ,new delhi,P004,1,15999,Completed,Credit Card,2024-01-18
+ORD005,CUST005,ROBERT TAYLOR,kolkata,P005,1,24999,Pending,Debit Card,2024-01-19
+ORD006,CUST006,Emma Davis,DELHI,P006,1,18999,Completed,UPI,2024-01-20
+ORD007,CUST007,JAMES miller,mumbai,P007,3,5999,Completed,Credit Card,2024-01-21
+ORD008,CUST008,Olivia Wilson,bangalore,P008,2,3499,Completed,Debit Card,2024-01-22
+ORD009,CUST009,David Anderson,Pune,P009,10,799,Cancelled,UPI,2024-01-23
+ORD010,CUST010,Grace Taylor,delhi,P010,1,2999,Completed,Credit Card,2024-01-24
+ORD001,CUST011,Henry Martin,NEW DELHI,P011,1,4999,Completed,Debit Card,2024-01-25
+ORD012,CUST012, ,Mumbai,P012,2,1999,Completed,UPI,2024-01-26
+ORD013,CUST013,Victoria Johnson,  ,P001,1,89999,Completed,Credit Card,2024-01-27
+ORD014,CUST014,frank walker ,Bangalore,P002,0,2499,Completed,Debit Card,2024-01-28
+ORD015,CUST015,sophie clark,-3,Delhi,P003,1,599,Completed,UPI,2024-01-29
+ORD016,CUST016,LUCAS WHITE,Delhi,P004,-2,15999,Pending,Credit Card,2024-01-30
+ORD017,CUST017,amelia hall,Kolkata,P005,1,25999,Completed,InvalidMethod,2024-01-31
+ORD018,CUST018, isabella young ,Mumbai,P006,1,19999,Completed,Credit Card,2024-02-01
+ORD019,CUST019,JACK ROBINSON,Hyderabad,P007,2,5999,Completed,Debit Card,2024-02-02
+ORD020,CUST020,charlotte adams ,bangalore,P008,1,3499,InProcess,UPI,2024-02-03
+ORD021,CUST021,noah king,Delhi,P009,5,799,Completed,Credit Card,2024-02-04
+ORD022,CUST022,emily wright ,delhi,P010,2,2999,Completed,Debit Card,2024-02-05
+ORD023,CUST023,mason scott,Mumbai,P011,1,4999,Completed,WalletPay,2024-02-06
+ORD024,CUST024,ava green,  ,P012,1,1999,Completed,UPI,2024-02-07
+ORD025,CUST025,logan baker,Bangalore,P001,2,89999,Pending,Credit Card,2024-02-08
+ORD002,CUST026,harper nelson ,Kolkata,P002,3,2499,Completed,Debit Card,2024-02-09
+ORD027,CUST027,ethan carter,delhi,P003,1,600,Completed,UPI,2024-02-10
+ORD028,CUST028, ,Delhi,P004,1,15999,Completed,Credit Card,02/11/2024
+ORD029,CUST029,lucas davies,  ,P005,0,24999,Completed,Debit Card,2024-02-12
+ORD030,CUST030,MIAH EVANS,Pune,P006,1,18999,Completed,UPI,2024-02-13
+ORD031,CUST031,ella rodriguez,Mumbai,P007,4,5999,Cancelled,Credit Card,2024-02-14
+ORD032,CUST032,NOAH TORRES,bangalore,P008,2,3499,Completed,Debit Card,2024-02-15
+ORD033,CUST033,ava peterson ,Delhi,P009,1,799,Completed,InvalidPayment,2024-02-16
+ORD034,CUST034,SOPHIA GRAY,new delhi,P010,3,2999,Pending,UPI,2024-02-17
+ORD035,CUST035,olivia ramirez,DELHI,P011,1,4999,Completed,Credit Card,2024-02-18
+ORD036,CUST036,isabella james,kolkata,P012,2,1999,Completed,Debit Card,2024-02-19
+ORD037,CUST037, emma watson ,Delhi,P001,1,90999,Completed,UPI,2024-02-20
+ORD038,CUST038,CHARLOTTE BROOKS,Mumbai,P002,1,2499,Completed,Credit Card,2024-02-21
+ORD039,CUST039,mia kelly ,bangalore,P003,5,599,Pending,Debit Card,2024-02-22
+ORD040,CUST040,SOPHIE SANDERS,Delhi,P004,1,15999,OnHold,UPI,2024-02-23
+ORD041,CUST041,grace richardson ,delhi,P005,1,24999,Completed,Credit Card,2024-02-24
+ORD042,CUST042,VICTORIA MILLER,  ,P006,2,18999,Completed,Debit Card,2024-02-25
+ORD043,CUST043,AMELIA DAVIS,Hyderabad,P007,3,5999,Completed,UPI,2024-02-26
+ORD044,CUST044, sophia johnson ,kolkata,P008,1,3499,Cancelled,Credit Card,2024-02-27
+ORD045,CUST045,olivia anderson ,Mumbai,P009,7,799,Completed,Debit Card,2024-02-28
+ORD001,CUST046,emily thomas ,bangalore,P010,1,2999,Completed,UPI,2024-02-29
+ORD047,CUST047,isabella martin,  ,P011,0,4999,Completed,InvalidMethod,2024-03-01
+ORD048,CUST048,charlotte lee ,Delhi,P012,2,2000,Completed,Credit Card,2024-03-02
+ORD049,CUST049, ,Mumbai,P001,1,89999,Pending,Debit Card,2024-03-03
+ORD050,CUST050,GRACE PEREZ,delhi,P002,-1,2499,Completed,UPI,2024-03-04
+ORD051,CUST051,victoria wilson ,Bangalore,P003,3,599,Completed,Credit Card,2024-03-05
+ORD052,CUST052,AMELIA RODRIGUEZ,kolkata,P004,1,15999,UnknownStatus,Debit Card,2024-03-06
+ORD053,CUST053,sophia garcia ,Delhi,P005,2,24999,Completed,UPI,2024-03-07
+ORD054,CUST054,ISABELLA MARTINEZ,  ,P006,1,18999,Completed,NetBanking,2024-03-08
+ORD055,CUST055,emily hernandez,new delhi,P007,4,5999,Completed,Credit Card,2024-03-09
+ORD056,CUST056,olivia lopez ,Mumbai,P008,1,3499,Pending,Debit Card,2024-03-10
+ORD057,CUST057,CHARLOTTE GONZALEZ,bangalore,P009,2,799,Completed,UPI,2024-03-11
+ORD058,CUST058,grace sanchez ,delhi,P010,5,2999,Completed,Credit Card,2024-03-12
+ORD059,CUST059,victoria clark ,Delhi,P011,1,4999,Cancelled,InvalidPayment,2024-03-13
+ORD060,CUST060, amelia brown ,kolkata,P012,3,1999,Completed,Debit Card,2024-03-14

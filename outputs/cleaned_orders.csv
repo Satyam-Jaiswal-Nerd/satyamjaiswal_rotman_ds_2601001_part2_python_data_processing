@@ -1,0 +1,34 @@
+order_id,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price,total_amount,order_status,payment_method,order_date
+ORD001,CUST001,John Smith,Delhi,P001,Laptop Pro,Electronics,1,89999.0,89999.0,Completed,Credit Card,2024-01-15
+ORD002,CUST002,Sarah Johnson,Mumbai,P002,Wireless Mouse,Electronics,2,2499.0,4998.0,Completed,Debit Card,2024-01-16
+ORD003,CUST003,Michael Brown,Bangalore,P003,USB-C Cable,Electronics,5,599.0,2995.0,Completed,UPI,2024-01-17
+ORD004,CUST004,Alice Williams,Delhi,P004,Office Chair,Furniture,1,15999.0,15999.0,Completed,Credit Card,2024-01-18
+ORD005,CUST005,Robert Taylor,Kolkata,P005,Standing Desk,Furniture,1,24999.0,24999.0,Pending,Debit Card,2024-01-19
+ORD006,CUST006,Emma Davis,Delhi,P006,LED Monitor 27inch,Electronics,1,18999.0,18999.0,Completed,UPI,2024-01-20
+ORD007,CUST007,James Miller,Mumbai,P007,Keyboard Mechanical,Electronics,3,5999.0,17997.0,Completed,Credit Card,2024-01-21
+ORD008,CUST008,Olivia Wilson,Bangalore,P008,Monitor Stand,Furniture,2,3499.0,6998.0,Completed,Debit Card,2024-01-22
+ORD009,CUST009,David Anderson,Pune,P009,Phone Stand,Accessories,10,799.0,7990.0,Cancelled,UPI,2024-01-23
+ORD010,CUST010,Grace Taylor,Delhi,P010,Laptop Backpack,Accessories,1,2999.0,2999.0,Completed,Credit Card,2024-01-24
+ORD019,CUST019,Jack Robinson,Hyderabad,P007,Keyboard Mechanical,Electronics,2,5999.0,11998.0,Completed,Debit Card,2024-02-02
+ORD021,CUST021,Noah King,Delhi,P009,Phone Stand,Accessories,5,799.0,3995.0,Completed,Credit Card,2024-02-04
+ORD022,CUST022,Emily Wright,Delhi,P010,Laptop Backpack,Accessories,2,2999.0,5998.0,Completed,Debit Card,2024-02-05
+ORD025,CUST025,Logan Baker,Bangalore,P001,Laptop Pro,Electronics,2,89999.0,179998.0,Pending,Credit Card,2024-02-08
+ORD030,CUST030,Miah Evans,Pune,P006,LED Monitor 27inch,Electronics,1,18999.0,18999.0,Completed,UPI,2024-02-13
+ORD031,CUST031,Ella Rodriguez,Mumbai,P007,Keyboard Mechanical,Electronics,4,5999.0,23996.0,Cancelled,Credit Card,2024-02-14
+ORD032,CUST032,Noah Torres,Bangalore,P008,Monitor Stand,Furniture,2,3499.0,6998.0,Completed,Debit Card,2024-02-15
+ORD034,CUST034,Sophia Gray,Delhi,P010,Laptop Backpack,Accessories,3,2999.0,8997.0,Pending,UPI,2024-02-17
+ORD035,CUST035,Olivia Ramirez,Delhi,P011,Desk Lamp,Furniture,1,4999.0,4999.0,Completed,Credit Card,2024-02-18
+ORD036,CUST036,Isabella James,Kolkata,P012,USB Hub 7-Port,Electronics,2,1999.0,3998.0,Completed,Debit Card,2024-02-19
+ORD038,CUST038,Charlotte Brooks,Mumbai,P002,Wireless Mouse,Electronics,1,2499.0,2499.0,Completed,Credit Card,2024-02-21
+ORD039,CUST039,Mia Kelly,Bangalore,P003,USB-C Cable,Electronics,5,599.0,2995.0,Pending,Debit Card,2024-02-22
+ORD041,CUST041,Grace Richardson,Delhi,P005,Standing Desk,Furniture,1,24999.0,24999.0,Completed,Credit Card,2024-02-24
+ORD043,CUST043,Amelia Davis,Hyderabad,P007,Keyboard Mechanical,Electronics,3,5999.0,17997.0,Completed,UPI,2024-02-26
+ORD044,CUST044,Sophia Johnson,Kolkata,P008,Monitor Stand,Furniture,1,3499.0,3499.0,Cancelled,Credit Card,2024-02-27
+ORD045,CUST045,Olivia Anderson,Mumbai,P009,Phone Stand,Accessories,7,799.0,5593.0,Completed,Debit Card,2024-02-28
+ORD051,CUST051,Victoria Wilson,Bangalore,P003,USB-C Cable,Electronics,3,599.0,1797.0,Completed,Credit Card,2024-03-05
+ORD053,CUST053,Sophia Garcia,Delhi,P005,Standing Desk,Furniture,2,24999.0,49998.0,Completed,UPI,2024-03-07
+ORD055,CUST055,Emily Hernandez,Delhi,P007,Keyboard Mechanical,Electronics,4,5999.0,23996.0,Completed,Credit Card,2024-03-09
+ORD056,CUST056,Olivia Lopez,Mumbai,P008,Monitor Stand,Furniture,1,3499.0,3499.0,Pending,Debit Card,2024-03-10
+ORD057,CUST057,Charlotte Gonzalez,Bangalore,P009,Phone Stand,Accessories,2,799.0,1598.0,Completed,UPI,2024-03-11
+ORD058,CUST058,Grace Sanchez,Delhi,P010,Laptop Backpack,Accessories,5,2999.0,14995.0,Completed,Credit Card,2024-03-12
+ORD060,CUST060,Amelia Brown,Kolkata,P012,USB Hub 7-Port,Electronics,3,1999.0,5997.0,Completed,Debit Card,2024-03-14

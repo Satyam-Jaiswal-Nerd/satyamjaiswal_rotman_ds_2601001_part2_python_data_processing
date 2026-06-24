@@ -1,0 +1,28 @@
+order_id,customer_id,customer_name,city,product_id,quantity,unit_price,order_status,payment_method,order_date,rejection_reasons
+ORD001,CUST011,Henry Martin,Delhi,P011,1,4999.0,Completed,Debit Card,2024-01-25,Duplicate order ID
+ORD012,CUST012,,Mumbai,P012,2,1999.0,Completed,UPI,2024-01-26,Missing customer name
+ORD013,CUST013,Victoria Johnson,,P001,1,89999.0,Completed,Credit Card,2024-01-27,Missing city
+ORD014,CUST014,Frank Walker,Bangalore,P002,0,2499.0,Completed,Debit Card,2024-01-28,Invalid quantity (must be positive)
+ORD015,CUST015,Sophie Clark,-3,Delhi,P003,1.0,599,Completed,UPI,Product ID not found in master | Invalid quantity format | Invalid order status: 599 | Invalid payment method: Completed | Invalid date format: UPI (expected YYYY-MM-DD)
+ORD016,CUST016,Lucas White,Delhi,P004,-2,15999.0,Pending,Credit Card,2024-01-30,Invalid quantity (must be positive)
+ORD017,CUST017,Amelia Hall,Kolkata,P005,1,25999.0,Completed,InvalidMethod,2024-01-31,"Unit price mismatch (expected 24999.0, got 25999.0) | Invalid payment method: InvalidMethod"
+ORD018,CUST018,Isabella Young,Mumbai,P006,1,19999.0,Completed,Credit Card,2024-02-01,"Unit price mismatch (expected 18999.0, got 19999.0)"
+ORD020,CUST020,Charlotte Adams,Bangalore,P008,1,3499.0,InProcess,UPI,2024-02-03,Invalid order status: InProcess
+ORD023,CUST023,Mason Scott,Mumbai,P011,1,4999.0,Completed,WalletPay,2024-02-06,Invalid payment method: WalletPay
+ORD024,CUST024,Ava Green,,P012,1,1999.0,Completed,UPI,2024-02-07,Missing city
+ORD002,CUST026,Harper Nelson,Kolkata,P002,3,2499.0,Completed,Debit Card,2024-02-09,Duplicate order ID
+ORD027,CUST027,Ethan Carter,Delhi,P003,1,600.0,Completed,UPI,2024-02-10,"Unit price mismatch (expected 599.0, got 600.0)"
+ORD028,CUST028,,Delhi,P004,1,15999.0,Completed,Credit Card,02/11/2024,Missing customer name | Invalid date format: 02/11/2024 (expected YYYY-MM-DD)
+ORD029,CUST029,Lucas Davies,,P005,0,24999.0,Completed,Debit Card,2024-02-12,Missing city | Invalid quantity (must be positive)
+ORD033,CUST033,Ava Peterson,Delhi,P009,1,799.0,Completed,InvalidPayment,2024-02-16,Invalid payment method: InvalidPayment
+ORD037,CUST037,Emma Watson,Delhi,P001,1,90999.0,Completed,UPI,2024-02-20,"Unit price mismatch (expected 89999.0, got 90999.0)"
+ORD040,CUST040,Sophie Sanders,Delhi,P004,1,15999.0,OnHold,UPI,2024-02-23,Invalid order status: OnHold
+ORD042,CUST042,Victoria Miller,,P006,2,18999.0,Completed,Debit Card,2024-02-25,Missing city
+ORD001,CUST046,Emily Thomas,Bangalore,P010,1,2999.0,Completed,UPI,2024-02-29,Duplicate order ID
+ORD047,CUST047,Isabella Martin,,P011,0,4999.0,Completed,InvalidMethod,2024-03-01,Missing city | Invalid quantity (must be positive) | Invalid payment method: InvalidMethod
+ORD048,CUST048,Charlotte Lee,Delhi,P012,2,2000.0,Completed,Credit Card,2024-03-02,"Unit price mismatch (expected 1999.0, got 2000.0)"
+ORD049,CUST049,,Mumbai,P001,1,89999.0,Pending,Debit Card,2024-03-03,Missing customer name
+ORD050,CUST050,Grace Perez,Delhi,P002,-1,2499.0,Completed,UPI,2024-03-04,Invalid quantity (must be positive)
+ORD052,CUST052,Amelia Rodriguez,Kolkata,P004,1,15999.0,UnknownStatus,Debit Card,2024-03-06,Invalid order status: UnknownStatus
+ORD054,CUST054,Isabella Martinez,,P006,1,18999.0,Completed,NetBanking,2024-03-08,Missing city
+ORD059,CUST059,Victoria Clark,Delhi,P011,1,4999.0,Cancelled,InvalidPayment,2024-03-13,Invalid payment method: InvalidPayment

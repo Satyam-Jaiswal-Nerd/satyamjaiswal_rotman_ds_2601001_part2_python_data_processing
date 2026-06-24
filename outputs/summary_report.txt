@@ -1,0 +1,109 @@
+
+================================================================================
+BUSINESS SUMMARY REPORT
+================================================================================
+Generated on: 2026-06-23 15:20:07
+Prepared by: Satyam Jaiswal (ID: rotman_ds_2601001)
+
+================================================================================
+1. EXECUTIVE SUMMARY
+================================================================================
+Total Raw Records Processed: 60
+Valid Records (Cleaned): 33
+Rejected Records: 27
+Data Quality Rate: 55.00%
+
+
+================================================================================
+2. REVENUE ANALYSIS
+================================================================================
+Total Revenue (Completed Orders): ₹367,438.00
+
+Revenue Breakdown by Category:
+  • Electronics: ₹222,269.00 (60.5%)
+  • Furniture: ₹109,991.00 (29.9%)
+  • Accessories: ₹35,178.00 (9.6%)
+
+Revenue Breakdown by City:
+  • Delhi: ₹256,976.00 (69.9%)
+  • Mumbai: ₹31,087.00 (8.5%)
+  • Hyderabad: ₹29,995.00 (8.2%)
+  • Bangalore: ₹20,386.00 (5.5%)
+  • Pune: ₹18,999.00 (5.2%)
+  • Kolkata: ₹9,995.00 (2.7%)
+
+
+================================================================================
+3. PAYMENT METHOD ANALYSIS
+================================================================================
+  • Credit Card: 14 orders (42.4%)
+  • Debit Card: 11 orders (33.3%)
+  • UPI: 8 orders (24.2%)
+
+
+================================================================================
+4. TOP CUSTOMERS
+================================================================================
+  1. John Smith: ₹89,999.00 (1 orders)
+  2. Sophia Garcia: ₹49,998.00 (1 orders)
+  3. Grace Richardson: ₹24,999.00 (1 orders)
+
+
+================================================================================
+5. PRODUCT ANALYSIS
+================================================================================
+Product with Highest Quantity Sold: Phone Stand (14 units)
+Category with Highest Revenue: Electronics (₹222,269.00)
+
+
+================================================================================
+6. DATA QUALITY ISSUES - REJECTION ANALYSIS
+================================================================================
+Rejection Reasons Count:
+  • Missing city: 6 occurrences (22.2%)
+  • Invalid quantity (must be positive): 5 occurrences (18.5%)
+  • Duplicate order ID: 3 occurrences (11.1%)
+  • Missing customer name: 3 occurrences (11.1%)
+  • Invalid payment method: InvalidMethod: 2 occurrences (7.4%)
+  • Invalid payment method: InvalidPayment: 2 occurrences (7.4%)
+  • Product ID not found in master: 1 occurrences (3.7%)
+  • Invalid quantity format: 1 occurrences (3.7%)
+  • Invalid order status: 599: 1 occurrences (3.7%)
+  • Invalid payment method: Completed: 1 occurrences (3.7%)
+  • Invalid date format: UPI (expected YYYY-MM-DD): 1 occurrences (3.7%)
+  • Unit price mismatch (expected 24999.0, got 25999.0): 1 occurrences (3.7%)
+  • Unit price mismatch (expected 18999.0, got 19999.0): 1 occurrences (3.7%)
+  • Invalid order status: InProcess: 1 occurrences (3.7%)
+  • Invalid payment method: WalletPay: 1 occurrences (3.7%)
+  • Unit price mismatch (expected 599.0, got 600.0): 1 occurrences (3.7%)
+  • Invalid date format: 02/11/2024 (expected YYYY-MM-DD): 1 occurrences (3.7%)
+  • Unit price mismatch (expected 89999.0, got 90999.0): 1 occurrences (3.7%)
+  • Invalid order status: OnHold: 1 occurrences (3.7%)
+  • Unit price mismatch (expected 1999.0, got 2000.0): 1 occurrences (3.7%)
+  • Invalid order status: UnknownStatus: 1 occurrences (3.7%)
+
+
+================================================================================
+7. KEY BUSINESS INSIGHTS
+================================================================================
+  Insight 1:
+    Data Quality Alert: 45.00% of raw orders were rejected due to data quality issues. Focus on
+    data validation at point of entry.
+
+  Insight 2:
+    Payment Preference: Credit Card is the most popular payment method, used in 42.4% of all
+    orders. Ensure robust infrastructure for this channel.
+
+  Insight 3:
+    Revenue Concentration: The 'Electronics' category drives 60.5% of total revenue. Consider
+    expanding this product line to maximize profitability.
+
+
+
+================================================================================
+8. RECOMMENDATIONS
+================================================================================
+  1. Implement data validation at the point of data entry to reduce rejection rate.
+  2. Focus marketing efforts on high-revenue categories to maximize profitability.
+  3. Ensure payment gateway availability for most-used payment methods.
+  4. Monitor data quality metrics regularly and set improvement targets.

@@ -1,0 +1,13 @@
+product_id,product_name,category,standard_price
+P001,Laptop Pro,Electronics,89999
+P002,Wireless Mouse,Electronics,2499
+P003,USB-C Cable,Electronics,599
+P004,Office Chair,Furniture,15999
+P005,Standing Desk,Furniture,24999
+P006,LED Monitor 27inch,Electronics,18999
+P007,Keyboard Mechanical,Electronics,5999
+P008,Monitor Stand,Furniture,3499
+P009,Phone Stand,Accessories,799
+P010,Laptop Backpack,Accessories,2999
+P011,Desk Lamp,Furniture,4999
+P012,USB Hub 7-Port,Electronics,1999
