@@ -4,7 +4,6 @@
 - **Assignment Title:** Data Processing Without Pandas
 - **Student Name:** Satyam Jaiswal
 - **Student ID:** rotman_ds_2601001
-- **Institution:** Rotman School of Data Science
 - **Project Part:** 2 (Python Data Processing Without Pandas)
 
 ---
@@ -459,7 +458,6 @@ The pipeline automatically generates 3+ business insights:
 
 **Author:** Satyam Jaiswal  
 **Student ID:** rotman_ds_2601001  
-**Institution:** Rotman School of Data Science
 
 For questions or issues, please refer to the test cases and documentation within each module.
 
@@ -471,5 +469,4 @@ This project is created for educational purposes as part of the Capstone assignm
 
 ---
 
-**Last Updated:** January 2024  
-**Version:** 1.0
+**Last Updated:** June 2026 
